@@ -1,0 +1,26 @@
+{
+  "name": "express-blog",
+  "version": "1.0.0",
+  "description": "This is a repo for a blog, made with express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jihyekwak/express-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jihyekwak/express-blog/issues"
+  },
+  "homepage": "https://github.com/jihyekwak/express-blog#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0"
+  }
+}
